@@ -17,7 +17,7 @@ Libra Finance is inspired and forked from [Tomb Finance](https://tomb.finance).
 
 - Telegram: https://t.me/LibraAstar 
 - Twitter: https://twitter.com/LibraAstar
-- GitHub: https://github.com/librafinance-xyz/libra-protocol
+- GitHub: https://github.com/librafinance-xyz/libra-contracts
 
 ## Disclaimer
 
